@@ -9,7 +9,8 @@ body {
 h1 {
   font-family: "Brush Script MT", cursive;
   font-weight: bold;
-  font-size: 80px;
+  font-size: 200px;
+  text-align: center;
 }
 
 tr {
