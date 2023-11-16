@@ -4,6 +4,8 @@ body {
 
   table, th, td {
   border: 20px solid;
+  border-style: solid;
+  border-color: white;
 } 
 
 h1 {
@@ -11,6 +13,8 @@ h1 {
   font-weight: bold;
   font-size: 80px;
   text-align: center;
+  border-style: solid;
+  border-color: yellow;
 }
 
 tr {
