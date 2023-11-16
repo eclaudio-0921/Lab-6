@@ -3,10 +3,11 @@ body {
 }
 
   table, th, td {
+  background-color: #6495ED;
   border: 15px solid;
   border-style: solid;
   border-color: white;
- 
+  
 } 
 
 h1 {
@@ -17,6 +18,7 @@ h1 {
    border: 15px solid;
   border-style: solid;
   border-color: yellow;
+  background-color: #6495ED;
 }
 
 tr {
