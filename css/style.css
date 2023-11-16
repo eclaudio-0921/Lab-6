@@ -7,7 +7,7 @@ body {
   border: 15px solid;
   border-style: solid;
   border-color: white;
-  display: block;
+  display: inline-block;
 } 
 
 h1 {
